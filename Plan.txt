@@ -1,0 +1,28 @@
+Movie hall App
+
+
+Responsiblities:
+
+1. Raman Shrestha: backend
+
+2. Adit and anuj: frontend
+
+
+
+project Detail:
+
+1. movie hall app with backend with ether laravel or express js 
+2. frontend with flutter
+
+
+movie hall app like any normal app:
+
+must have for front end:
+1. landing,
+2. login,
+3. register,
+4. movie view page:
+        1. latest,new,recomendation,
+5. movie book page,
+6. movie hall seat booking,
+
